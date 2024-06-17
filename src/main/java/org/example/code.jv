@@ -1,0 +1,9 @@
+int h = 3;
+if(h<2 & h>10 | 5>3)
+{
+log(1);
+}
+else{
+int falseVar = 0;
+log(falseVar);
+};

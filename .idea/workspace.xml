@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4dd6be5a-5ddc-4968-b0b4-fddc4e73a8b6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../LanguageProgrammer" beforeDir="false" afterPath="$PROJECT_DIR$/../LanguageProgrammer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../s" beforeDir="false" afterPath="$PROJECT_DIR$/../s" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2esCxOjU30qdEpWEokfQ7QqjfHT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Appl.executor": "Run",
+    "JUnit.CompilatorCallFunctionTest.callFuncTest.executor": "Run",
+    "JUnit.CompilatorCallFunctionTest.executor": "Run",
+    "JUnit.CompilatorCallFunctionTest.inputTest.executor": "Run",
+    "JUnit.CompilatorCallFunctionTest.printTest.executor": "Run",
+    "JUnit.CompilatorCreateFunctionTest.executor": "Run",
+    "JUnit.CompilatorTest.arithmeticOperationsTest.executor": "Run",
+    "JUnit.CompilatorTest.compileLogicBranchTest.executor": "Run",
+    "JUnit.CompilatorTest.executor": "Run",
+    "JUnit.CompilatorTest.printTest.executor": "Run",
+    "JUnit.CompilatorValueTest.executor": "Run",
+    "JUnit.CompilatorValueTest.testCompileValue.executor": "Run",
+    "JUnit.CompilerArithmeticOperationTest.arithmeticOperationsTest.executor": "Run",
+    "JUnit.CompilerArithmeticOperationTest.executor": "Run",
+    "JUnit.CompilerCallFunctionTest (1).executor": "Run",
+    "JUnit.CompilerCallFunctionTest.callFuncTest (1).executor": "Run",
+    "JUnit.CompilerCallFunctionTest.callFuncTest.executor": "Run",
+    "JUnit.CompilerCallFunctionTest.executor": "Run",
+    "JUnit.CompilerCallFunctionTest.inputTest (1).executor": "Run",
+    "JUnit.CompilerCallFunctionTest.printTest.executor": "Run",
+    "JUnit.CompilerCallFunctionTest.testReturningFunction.executor": "Run",
+    "JUnit.CompilerCallFunctionTest.testValidIfArgumentIsFunction.executor": "Run",
+    "JUnit.CompilerCallFunctionTest.testValidIfArgumentIsVar.executor": "Run",
+    "JUnit.CompilerCallFunctionTest.testValidTypeArg.executor": "Run",
+    "JUnit.CompilerCreateFunctionTest.executor": "Run",
+    "JUnit.CompilerCreateFunctionTest.testAddingFunctionToFunctionPool.executor": "Run",
+    "JUnit.CompilerLogicOperationTest.compileLogicBranchTest.executor": "Run",
+    "JUnit.CompilerLogicOperationTest.executor": "Run",
+    "JUnit.CompilerLogicOperationTest.testAreaOfVisible.executor": "Run",
+    "JUnit.CompilerLogicOperationTest.testCompileLogicBranch.executor": "Run",
+    "JUnit.CompilerTest.executor": "Run",
+    "JUnit.CompilerValueTest.executor": "Run",
+    "JUnit.CompilerValueTest.testCompileWithDifferentValueTypes.executor": "Run",
+    "JUnit.CompilerVariableTest.callVariableTest.executor": "Run",
+    "JUnit.CompilerVariableTest.createVariableTest.executor": "Run",
+    "JUnit.CompilerVariableTest.executor": "Run",
+    "JUnit.ParseVariableTest.parseVariableTest.executor": "Run",
+    "JUnit.ParserCallFunctionTest.executor": "Run",
+    "JUnit.ParserCallFunctionTest.parseCallFunctionTest.executor": "Run",
+    "JUnit.ParserCallFunctionTest.parseInput.executor": "Run",
+    "JUnit.ParserCallFunctionTest.parsePrint.executor": "Run",
+    "JUnit.ParserCodeTest.executor": "Run",
+    "JUnit.ParserCreateFunctionTest.executor": "Run",
+    "JUnit.ParserCreateFunctionTest.parseCreateFunction.executor": "Run",
+    "JUnit.ParserCreateFunctionTest.testParseReturnType.executor": "Run",
+    "JUnit.ParserFormulaTest.executor": "Run",
+    "JUnit.ParserFormulaTest.parseFormula.executor": "Run",
+    "JUnit.ParserLogicalBranchingTest.executor": "Run",
+    "JUnit.ParserLogicalBranchingTest.parseLogicalBranching.executor": "Run",
+    "JUnit.ParserTest.ParsePrivelegerate.executor": "Run",
+    "JUnit.ParserTest.equalsObj.executor": "Run",
+    "JUnit.ParserTest.executor": "Run",
+    "JUnit.ParserTest.isInstanceOf.executor": "Run",
+    "JUnit.ParserTest.isInstanceOfAllObject.executor": "Run",
+    "JUnit.ParserTest.isTrueLogicExpression.executor": "Run",
+    "JUnit.ParserTest.logicParse.executor": "Run",
+    "JUnit.ParserTest.parseCodeWithFlag.executor": "Run",
+    "JUnit.ParserTest.parseFormula.executor": "Run",
+    "JUnit.ParserTest.parseInput.executor": "Run",
+    "JUnit.ParserTest.parseLogic.executor": "Run",
+    "JUnit.ParserTest.parseLogicExpression.executor": "Run",
+    "JUnit.ParserTest.parseLogicalBranching.executor": "Run",
+    "JUnit.ParserTest.parseValue.executor": "Run",
+    "JUnit.ParserTest.parseVariable.executor": "Run",
+    "JUnit.ParserTest.tokenMatch.executor": "Run",
+    "JUnit.ParserValueTest.executor": "Run",
+    "JUnit.ParserValueTest.parseValueTest.executor": "Run",
+    "JUnit.ParserValueTest.test.executor": "Run",
+    "JUnit.TranslatorTest.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "B:/ideaProject/JvScript-LangueProgrammer--main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.Translator.Parser" />
+      <recent name="org.example.Parser" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TranslatorTest">
+    <configuration name="CompilerCallFunctionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LanguageProgrammer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Compiler.CompilersOperationsTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Compiler.CompilersOperationsTests" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Compiler.CompilersOperationsTests.CompilerCallFunctionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompilerLogicOperationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LanguageProgrammer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Compiler.CompilersOperationsTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Compiler.CompilersOperationsTests" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Compiler.CompilersOperationsTests.CompilerLogicOperationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompilerLogicOperationTest.testCompileLogicBranch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LanguageProgrammer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Compiler.CompilersOperationsTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Compiler.CompilersOperationsTests" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Compiler.CompilersOperationsTests.CompilerLogicOperationTest" />
+      <option name="METHOD_NAME" value="testCompileLogicBranch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompilerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LanguageProgrammer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Compiler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Compiler" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Compiler.CompilerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TranslatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LanguageProgrammer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TranslatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TranslatorTest" />
+        <item itemvalue="JUnit.CompilerLogicOperationTest.testCompileLogicBranch" />
+        <item itemvalue="JUnit.CompilerLogicOperationTest" />
+        <item itemvalue="JUnit.CompilerTest" />
+        <item itemvalue="JUnit.CompilerCallFunctionTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4dd6be5a-5ddc-4968-b0b4-fddc4e73a8b6" name="Changes" comment="" />
+      <created>1712684146927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712684146927</updated>
+      <workItem from="1712684147989" duration="1000" />
+      <workItem from="1712684192160" duration="1834000" />
+      <workItem from="1712847198990" duration="3587000" />
+      <workItem from="1712917979411" duration="5374000" />
+      <workItem from="1712932514818" duration="1524000" />
+      <workItem from="1712939416646" duration="1262000" />
+      <workItem from="1713022656775" duration="2444000" />
+      <workItem from="1713374706586" duration="949000" />
+      <workItem from="1713376784526" duration="4056000" />
+      <workItem from="1713454583023" duration="6980000" />
+      <workItem from="1713468534006" duration="597000" />
+      <workItem from="1713540701877" duration="369000" />
+      <workItem from="1713547989099" duration="3134000" />
+      <workItem from="1713600380737" duration="3964000" />
+      <workItem from="1713604365014" duration="2811000" />
+      <workItem from="1713613515237" duration="694000" />
+      <workItem from="1713616775523" duration="4783000" />
+      <workItem from="1713639292306" duration="5724000" />
+      <workItem from="1713686415144" duration="3495000" />
+      <workItem from="1713700999152" duration="2608000" />
+      <workItem from="1713721763026" duration="1067000" />
+      <workItem from="1713722848096" duration="84000" />
+      <workItem from="1713804751302" duration="4546000" />
+      <workItem from="1713812451112" duration="571000" />
+      <workItem from="1713881913346" duration="355000" />
+      <workItem from="1713883232291" duration="583000" />
+      <workItem from="1713884884185" duration="6021000" />
+      <workItem from="1713894302397" duration="222000" />
+      <workItem from="1713967822003" duration="4253000" />
+      <workItem from="1713980007022" duration="20000" />
+      <workItem from="1714054090449" duration="5702000" />
+      <workItem from="1714156434557" duration="952000" />
+      <workItem from="1714231376016" duration="1863000" />
+      <workItem from="1714233252157" duration="1639000" />
+      <workItem from="1714243925155" duration="1297000" />
+      <workItem from="1714245281827" duration="2532000" />
+      <workItem from="1714309508841" duration="5302000" />
+      <workItem from="1714386253852" duration="2000" />
+      <workItem from="1714403181792" duration="649000" />
+      <workItem from="1714403844893" duration="704000" />
+      <workItem from="1714405384187" duration="11000" />
+      <workItem from="1714405465143" duration="50000" />
+      <workItem from="1714405553587" duration="9000" />
+      <workItem from="1716822163173" duration="368000" />
+      <workItem from="1716834384687" duration="1499000" />
+      <workItem from="1716836166046" duration="169000" />
+      <workItem from="1716912084618" duration="2859000" />
+      <workItem from="1716984443838" duration="301000" />
+      <workItem from="1716985778587" duration="11105000" />
+      <workItem from="1717076389220" duration="4814000" />
+      <workItem from="1717142566286" duration="6217000" />
+      <workItem from="1717160732314" duration="7272000" />
+      <workItem from="1717348055800" duration="364000" />
+      <workItem from="1717348472578" duration="5213000" />
+      <workItem from="1717497553847" duration="161000" />
+      <workItem from="1717501193742" duration="2597000" />
+      <workItem from="1717503861884" duration="3035000" />
+      <workItem from="1717579425764" duration="11000" />
+      <workItem from="1717584643702" duration="4857000" />
+      <workItem from="1717593989256" duration="1000" />
+      <workItem from="1717594503333" duration="2458000" />
+      <workItem from="1717604211350" duration="934000" />
+      <workItem from="1717677057242" duration="3939000" />
+      <workItem from="1717681955161" duration="636000" />
+      <workItem from="1717764462247" duration="10245000" />
+      <workItem from="1717829799259" duration="35000" />
+      <workItem from="1717831031150" duration="6427000" />
+      <workItem from="1717944753387" duration="7062000" />
+      <workItem from="1717952252638" duration="450000" />
+      <workItem from="1718017336694" duration="3591000" />
+      <workItem from="1718020992829" duration="1220000" />
+      <workItem from="1718046319771" duration="1856000" />
+      <workItem from="1718089922052" duration="7000" />
+      <workItem from="1718095073503" duration="5833000" />
+      <workItem from="1718383209397" duration="162000" />
+      <workItem from="1718440173738" duration="158000" />
+      <workItem from="1718449486971" duration="3755000" />
+      <workItem from="1718454512790" duration="7000" />
+      <workItem from="1718462249252" duration="2501000" />
+      <workItem from="1718473076015" duration="4337000" />
+      <workItem from="1718535346387" duration="41000" />
+      <workItem from="1718554659287" duration="6409000" />
+      <workItem from="1718617915686" duration="7022000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
