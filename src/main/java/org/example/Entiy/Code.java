@@ -91,7 +91,8 @@ public class Code {
 
     public boolean isFindFormulaOnCurrentPos(){
         if (posToken+1>=tokens.size()) return false;
-        if (!(isFindValueOnPos(posToken) && isFindArithmeticOperatorOnPos(posToken+1))){
+
+        if (!(isFindValueOnPos(posToken) && isFindArithmeticOperatorOnPos(posToken+1)) && !(isFindFormulaWithCallFunc(posToken))){
             if (posToken+2>=tokens.size()) return false;
             return (isFindLRAPOnPos(posToken) && isFindValueOnPos(posToken+1) && isFindArithmeticOperatorOnPos(posToken+2));
         }
@@ -104,6 +105,11 @@ public class Code {
 
     public boolean isFindArithmeticOperatorOnPos(int posToken) {
         return isFindTokenOnPosFromTokens(posToken,ARITHMETIC_OPERATORS);
+    }
+
+    private boolean isFindFormulaWithCallFunc(int posToken) {
+        if (posToken+3>=tokens.size())return false;
+        return isFindTokenOnPosFromTokens(posToken,TokenType.NAME) && isFindArithmeticOperatorOnPos(posToken+3);
     }
 
     private boolean isFindLRAPOnPos(int posToken) {

@@ -24,7 +24,6 @@ public class ParserArgument extends ParserBase {
     @Override
     public ArgumentNode parse() {
         String nameCalledFunc = getNameCalledFunc();
-
         String[] namesArguments = getNamesArgumentsFunction(nameCalledFunc);
         if (namesArguments==null) {
             throw new ParseError(String.format("была вызвана не существующая функция %s",nameCalledFunc), code.getPosCurrentToken());
