@@ -5,9 +5,10 @@ import org.example.AST.ExpressionNode;
 import org.example.AST.FuncNode;
 import org.example.AST.StatementsNode;
 import org.example.Entiy.*;
-import org.example.Translator.BufferFunctions;
+import org.example.Entiy.BufferFunctions;
 import org.example.Translator.Parser.ParserBase;
 import org.example.Translator.Parser.ParserCode;
+
 
 public class ParserCreateFunction extends ParserBase {
     private final BufferFunctions bufferFunctions;

@@ -6,6 +6,6 @@ import org.junit.runners.Suite;
 
 @RunWith(Suite.class)
 @Suite.SuiteClasses({CompilerValueTest.class, CompilerValueTest.class, CompilerCreateFunctionTest.class,
-        CompilerCallFunctionTest.class, CompilerLogicOperationTest.class, CompilerArithmeticOperationTest.class})
+        CompilerCallFunctionTest.class, CompilerLogicOperationTest.class, CompilerArithmeticOperationTest.class, CompilerChangeVariable.class})
 public class CompilerTest {
 }

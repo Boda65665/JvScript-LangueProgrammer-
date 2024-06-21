@@ -2,7 +2,7 @@ package org.example.Translator.Compiler.CompilerOperations;
 
 import org.example.AST.ExpressionNode;
 import org.example.Translator.Compiler.CompilerBase;
-import org.example.Translator.Compiler.Scope;
+import org.example.Entiy.Scope;
 
 public class CompilerCreateVariable extends CompilerBase {
     private final Scope scope;

@@ -2,7 +2,7 @@ package org.example.Translator.Parser.ParsersExpressionInCode;
 
 import org.example.AST.ExpressionNode;
 import org.example.Entiy.Code;
-import org.example.Translator.BufferFunctions;
+import org.example.Entiy.BufferFunctions;
 import org.example.Translator.Parser.ParserBase;
 
 public class ParserDataAndFormula extends ParserBase {

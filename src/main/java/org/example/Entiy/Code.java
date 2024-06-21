@@ -136,4 +136,5 @@ public class Code {
         }
         return isFindLRAP && isFindLogicExp(pos);
     }
+
 }

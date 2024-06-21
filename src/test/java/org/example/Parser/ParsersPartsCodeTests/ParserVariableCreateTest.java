@@ -5,7 +5,7 @@ import org.example.AST.ValueNode;
 import org.example.AST.VariableNode;
 import org.example.Entiy.ValueType;
 import org.example.Parser.GeneratorTestData;
-import org.example.Translator.BufferFunctions;
+import org.example.Entiy.BufferFunctions;
 import org.example.Translator.Parser.ParsersExpressionInCode.ParserVariableCreate;
 import org.junit.Test;
 import org.junit.jupiter.api.Assertions;

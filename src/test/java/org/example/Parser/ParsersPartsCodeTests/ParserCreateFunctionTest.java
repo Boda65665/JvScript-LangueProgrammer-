@@ -5,10 +5,11 @@ import org.example.Entiy.BodyFunc;
 import org.example.Entiy.Token;
 import org.example.Entiy.ValueType;
 import org.example.Parser.GeneratorTestData;
-import org.example.Translator.BufferFunctions;
+import org.example.Entiy.BufferFunctions;
 import org.example.Translator.Parser.ParsersExpressionInCode.ParserCreateFunction;
 import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
+
 
 
 public class ParserCreateFunctionTest {

@@ -6,10 +6,42 @@
   <component name="ChangeListManager">
     <list default="true" id="4dd6be5a-5ddc-4968-b0b4-fddc4e73a8b6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AST/FuncNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AST/FuncNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Appl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Appl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Entiy/BodyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Entiy/BodyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Entiy/BodyFunc.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Entiy/Code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Entiy/Code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Translator/BufferFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Entiy/BufferFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Translator/Compiler/Compiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Translator/Compiler/Compiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Translator/Compiler/CompilerOperations/CompilerCallFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Translator/Compiler/CompilerOperations/CompilerCallFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Translator/Compiler/CompilerOperations/CompilerCallVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Translator/Compiler/CompilerOperations/CompilerCallVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Translator/Compiler/CompilerOperations/CompilerCreateFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Translator/Compiler/CompilerOperations/CompilerCreateFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Translator/Compiler/CompilerOperations/CompilerCreateVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Translator/Compiler/CompilerOperations/CompilerCreateVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Translator/Compiler/CompilerOperations/CompilerLogicOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Translator/Compiler/CompilerOperations/CompilerLogicOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Translator/Compiler/Scope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Entiy/Scope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Translator/Parser/ParserCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Translator/Parser/ParserCode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Translator/Parser/ParsersExpressionInCode/ParserArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Translator/Parser/ParsersExpressionInCode/ParserArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Translator/Parser/ParsersExpressionInCode/ParserCallFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Translator/Parser/ParsersExpressionInCode/ParserCallFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Translator/Parser/ParsersExpressionInCode/ParserClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Translator/Parser/ParsersExpressionInCode/ParserClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Translator/Parser/ParsersExpressionInCode/ParserCreateFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Translator/Parser/ParsersExpressionInCode/ParserCreateFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Translator/Parser/ParsersExpressionInCode/ParserData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Translator/Parser/ParsersExpressionInCode/ParserData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Translator/Parser/ParsersExpressionInCode/ParserDataAndFormula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Translator/Parser/ParsersExpressionInCode/ParserDataAndFormula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Translator/Parser/ParsersExpressionInCode/ParserFormula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Translator/Parser/ParsersExpressionInCode/ParserFormula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Translator/Parser/ParsersExpressionInCode/ParserLogicBranching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Translator/Parser/ParsersExpressionInCode/ParserLogicBranching.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Translator/Parser/ParsersExpressionInCode/ParserParentChess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Translator/Parser/ParsersExpressionInCode/ParserParentChess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Translator/Parser/ParsersExpressionInCode/ParserVariableCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Translator/Parser/ParsersExpressionInCode/ParserVariableCreate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Compiler/CompilerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Compiler/CompilerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Compiler/CompilersOperationsTests/CompilerArithmeticOperationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Compiler/CompilersOperationsTests/CompilerArithmeticOperationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Compiler/CompilersOperationsTests/CompilerCallFunctionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Compiler/CompilersOperationsTests/CompilerCallFunctionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Compiler/CompilersOperationsTests/CompilerCreateFunctionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Compiler/CompilersOperationsTests/CompilerCreateFunctionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Compiler/CompilersOperationsTests/CompilerVariableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Compiler/CompilersOperationsTests/CompilerVariableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Compiler/HelperForCompilatorsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Compiler/HelperForCompilatorsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Parser/ParserCodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Parser/ParserCodeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Parser/ParsersPartsCodeTests/ParserCallFunctionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Parser/ParsersPartsCodeTests/ParserCallFunctionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Parser/ParsersPartsCodeTests/ParserCreateFunctionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Parser/ParsersPartsCodeTests/ParserCreateFunctionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Parser/ParsersPartsCodeTests/ParserFormulaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Parser/ParsersPartsCodeTests/ParserFormulaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Parser/ParsersPartsCodeTests/ParserLogicalBranchingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Parser/ParsersPartsCodeTests/ParserLogicalBranchingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Parser/ParsersPartsCodeTests/ParserVariableCreateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Parser/ParsersPartsCodeTests/ParserVariableCreateTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LanguageProgrammer" beforeDir="false" afterPath="$PROJECT_DIR$/../LanguageProgrammer" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../s" beforeDir="false" afterPath="$PROJECT_DIR$/../s" afterDir="false" />
     </list>
@@ -38,98 +70,106 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Appl.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilatorCallFunctionTest.callFuncTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilatorCallFunctionTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilatorCallFunctionTest.inputTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilatorCallFunctionTest.printTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilatorCreateFunctionTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilatorTest.arithmeticOperationsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilatorTest.compileLogicBranchTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilatorTest.printTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilatorValueTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilatorValueTest.testCompileValue.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerArithmeticOperationTest.arithmeticOperationsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerArithmeticOperationTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerCallFunctionTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerCallFunctionTest.callFuncTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerCallFunctionTest.callFuncTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerCallFunctionTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerCallFunctionTest.inputTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerCallFunctionTest.printTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerCallFunctionTest.testReturningFunction.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerCallFunctionTest.testValidIfArgumentIsFunction.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerCallFunctionTest.testValidIfArgumentIsVar.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerCallFunctionTest.testValidTypeArg.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerCreateFunctionTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerCreateFunctionTest.testAddingFunctionToFunctionPool.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerLogicOperationTest.compileLogicBranchTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerLogicOperationTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerLogicOperationTest.testAreaOfVisible.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerLogicOperationTest.testCompileLogicBranch.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerValueTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerValueTest.testCompileWithDifferentValueTypes.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerVariableTest.callVariableTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerVariableTest.createVariableTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompilerVariableTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParseVariableTest.parseVariableTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserCallFunctionTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserCallFunctionTest.parseCallFunctionTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserCallFunctionTest.parseInput.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserCallFunctionTest.parsePrint.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserCodeTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserCreateFunctionTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserCreateFunctionTest.parseCreateFunction.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserCreateFunctionTest.testParseReturnType.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserFormulaTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserFormulaTest.parseFormula.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserLogicalBranchingTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserLogicalBranchingTest.parseLogicalBranching.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserTest.ParsePrivelegerate.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserTest.equalsObj.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserTest.isInstanceOf.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserTest.isInstanceOfAllObject.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserTest.isTrueLogicExpression.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserTest.logicParse.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserTest.parseCodeWithFlag.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserTest.parseFormula.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserTest.parseInput.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserTest.parseLogic.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserTest.parseLogicExpression.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserTest.parseLogicalBranching.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserTest.parseValue.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserTest.parseVariable.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserTest.tokenMatch.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserValueTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserValueTest.parseValueTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ParserValueTest.test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TranslatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;B:/ideaProject/JvScript-LangueProgrammer--main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Appl.executor": "Run",
+    "JUnit.CompilatorCallFunctionTest.callFuncTest.executor": "Run",
+    "JUnit.CompilatorCallFunctionTest.executor": "Run",
+    "JUnit.CompilatorCallFunctionTest.inputTest.executor": "Run",
+    "JUnit.CompilatorCallFunctionTest.printTest.executor": "Run",
+    "JUnit.CompilatorCreateFunctionTest.executor": "Run",
+    "JUnit.CompilatorTest.arithmeticOperationsTest.executor": "Run",
+    "JUnit.CompilatorTest.compileLogicBranchTest.executor": "Run",
+    "JUnit.CompilatorTest.executor": "Run",
+    "JUnit.CompilatorTest.printTest.executor": "Run",
+    "JUnit.CompilatorValueTest.executor": "Run",
+    "JUnit.CompilatorValueTest.testCompileValue.executor": "Run",
+    "JUnit.CompilerArithmeticOperationTest.arithmeticOperationsTest.executor": "Run",
+    "JUnit.CompilerArithmeticOperationTest.executor": "Run",
+    "JUnit.CompilerCallFunctionTest (1).executor": "Run",
+    "JUnit.CompilerCallFunctionTest.callFuncTest (1).executor": "Run",
+    "JUnit.CompilerCallFunctionTest.callFuncTest.executor": "Run",
+    "JUnit.CompilerCallFunctionTest.executor": "Run",
+    "JUnit.CompilerCallFunctionTest.inputTest (1).executor": "Run",
+    "JUnit.CompilerCallFunctionTest.printTest.executor": "Run",
+    "JUnit.CompilerCallFunctionTest.testReturningFunction.executor": "Run",
+    "JUnit.CompilerCallFunctionTest.testValidIfArgumentIsFunction.executor": "Run",
+    "JUnit.CompilerCallFunctionTest.testValidIfArgumentIsVar.executor": "Run",
+    "JUnit.CompilerCallFunctionTest.testValidTypeArg.executor": "Run",
+    "JUnit.CompilerChangeVariable.executor": "Run",
+    "JUnit.CompilerChangeVariable.testChangeVar.executor": "Run",
+    "JUnit.CompilerCreateFunctionTest.executor": "Run",
+    "JUnit.CompilerCreateFunctionTest.testAddingFunctionToFunctionPool.executor": "Run",
+    "JUnit.CompilerLogicOperationTest.compileLogicBranchTest.executor": "Run",
+    "JUnit.CompilerLogicOperationTest.executor": "Run",
+    "JUnit.CompilerLogicOperationTest.testAreaOfVisible.executor": "Run",
+    "JUnit.CompilerLogicOperationTest.testCompileLogicBranch.executor": "Run",
+    "JUnit.CompilerTest.executor": "Run",
+    "JUnit.CompilerValueTest.executor": "Run",
+    "JUnit.CompilerValueTest.testCompileWithDifferentValueTypes.executor": "Run",
+    "JUnit.CompilerVariableTest.callVariableTest.executor": "Run",
+    "JUnit.CompilerVariableTest.createVariableTest.executor": "Run",
+    "JUnit.CompilerVariableTest.executor": "Run",
+    "JUnit.ParseVariableTest.parseVariableTest.executor": "Run",
+    "JUnit.ParserCallFunctionTest.executor": "Run",
+    "JUnit.ParserCallFunctionTest.parseCallFunctionTest.executor": "Run",
+    "JUnit.ParserCallFunctionTest.parseInput.executor": "Run",
+    "JUnit.ParserCallFunctionTest.parsePrint.executor": "Run",
+    "JUnit.ParserClassTest.executor": "Run",
+    "JUnit.ParserClassTest.testAddingFunction.executor": "Run",
+    "JUnit.ParserClassTest.testAddingVar.executor": "Run",
+    "JUnit.ParserClassTest.testSetConstructor.executor": "Run",
+    "JUnit.ParserCodeTest.executor": "Run",
+    "JUnit.ParserCreateFunctionTest.executor": "Run",
+    "JUnit.ParserCreateFunctionTest.parseCreateFunction.executor": "Run",
+    "JUnit.ParserCreateFunctionTest.testParseReturnType.executor": "Run",
+    "JUnit.ParserFormulaTest.executor": "Run",
+    "JUnit.ParserFormulaTest.parseFormula.executor": "Run",
+    "JUnit.ParserLogicalBranchingTest.executor": "Run",
+    "JUnit.ParserLogicalBranchingTest.parseLogicalBranching.executor": "Run",
+    "JUnit.ParserTest.ParsePrivelegerate.executor": "Run",
+    "JUnit.ParserTest.equalsObj.executor": "Run",
+    "JUnit.ParserTest.executor": "Run",
+    "JUnit.ParserTest.isInstanceOf.executor": "Run",
+    "JUnit.ParserTest.isInstanceOfAllObject.executor": "Run",
+    "JUnit.ParserTest.isTrueLogicExpression.executor": "Run",
+    "JUnit.ParserTest.logicParse.executor": "Run",
+    "JUnit.ParserTest.parseCodeWithFlag.executor": "Run",
+    "JUnit.ParserTest.parseFormula.executor": "Run",
+    "JUnit.ParserTest.parseInput.executor": "Run",
+    "JUnit.ParserTest.parseLogic.executor": "Run",
+    "JUnit.ParserTest.parseLogicExpression.executor": "Run",
+    "JUnit.ParserTest.parseLogicalBranching.executor": "Run",
+    "JUnit.ParserTest.parseValue.executor": "Run",
+    "JUnit.ParserTest.parseVariable.executor": "Run",
+    "JUnit.ParserTest.tokenMatch.executor": "Run",
+    "JUnit.ParserValueTest.executor": "Run",
+    "JUnit.ParserValueTest.parseValueTest.executor": "Run",
+    "JUnit.ParserValueTest.test.executor": "Run",
+    "JUnit.ParserVariableChangeTest.executor": "Run",
+    "JUnit.ParserVariableChangeTest.parserTest.executor": "Run",
+    "JUnit.TranslatorTest.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "B:/ideaProject/JvScript-LangueProgrammer--main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.example.Translator.Parser" />
       <recent name="org.example.Parser" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Appl">
+  <component name="RunManager" selected="JUnit.TranslatorTest">
     <configuration name="Appl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Appl" />
       <module name="LanguageProgrammer" />
@@ -143,7 +183,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompilerLogicOperationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CompilerChangeVariable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LanguageProgrammer" />
       <extension name="coverage">
         <pattern>
@@ -152,13 +192,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example.Compiler.CompilersOperationsTests" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Compiler.CompilersOperationsTests.CompilerLogicOperationTest" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Compiler.CompilersOperationsTests.CompilerChangeVariable" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompilerLogicOperationTest.testCompileLogicBranch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CompilerChangeVariable.testChangeVar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LanguageProgrammer" />
       <extension name="coverage">
         <pattern>
@@ -167,23 +207,23 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example.Compiler.CompilersOperationsTests" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Compiler.CompilersOperationsTests.CompilerLogicOperationTest" />
-      <option name="METHOD_NAME" value="testCompileLogicBranch" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Compiler.CompilersOperationsTests.CompilerChangeVariable" />
+      <option name="METHOD_NAME" value="testChangeVar" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompilerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ParserVariableChangeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LanguageProgrammer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Compiler.*" />
+          <option name="PATTERN" value="org.example.Parser.ParsersPartsCodeTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.Compiler" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Compiler.CompilerTest" />
+      <option name="PACKAGE_NAME" value="org.example.Parser.ParsersPartsCodeTests" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Parser.ParsersPartsCodeTests.ParserVariableChangeTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -206,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Appl" />
         <item itemvalue="JUnit.TranslatorTest" />
-        <item itemvalue="JUnit.CompilerLogicOperationTest.testCompileLogicBranch" />
-        <item itemvalue="JUnit.CompilerLogicOperationTest" />
-        <item itemvalue="JUnit.CompilerTest" />
+        <item itemvalue="JUnit.ParserVariableChangeTest" />
+        <item itemvalue="Application.Appl" />
+        <item itemvalue="JUnit.CompilerChangeVariable.testChangeVar" />
+        <item itemvalue="JUnit.CompilerChangeVariable" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +356,13 @@
       <workItem from="1718698342698" duration="2073000" />
       <workItem from="1718783736749" duration="6000" />
       <workItem from="1718794865928" duration="498000" />
-      <workItem from="1718805141037" duration="2432000" />
+      <workItem from="1718805141037" duration="3381000" />
+      <workItem from="1718814810956" duration="2294000" />
+      <workItem from="1718879460927" duration="3003000" />
+      <workItem from="1718882961503" duration="3582000" />
+      <workItem from="1718897361084" duration="50000" />
+      <workItem from="1718965585960" duration="2349000" />
+      <workItem from="1718971748536" duration="1830000" />
     </task>
     <servers />
   </component>

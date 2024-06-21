@@ -1,13 +1,10 @@
-package org.example.Translator.Compiler;
+package org.example.Entiy;
 
 import org.example.AST.BindOperationNode;
 import org.example.AST.ExpressionNode;
 import org.example.AST.VariableNode;
-import org.example.Entiy.Position;
-import org.example.Entiy.Token;
-import org.example.Entiy.ValueType;
-import org.example.Entiy.Variable;
 import org.example.Exception.CompilationError;
+import org.example.Translator.Compiler.Compiler;
 
 
 import java.util.HashMap;
@@ -32,15 +29,23 @@ public class Scope {
     public void setVariable(ExpressionNode node) {
         BindOperationNode variableCreationNode = (BindOperationNode) node;
         VariableNode variableNode = (VariableNode) variableCreationNode.getLeftNode();
+        Token varTokenName = variableNode.getToken();
+        String nameVar = varTokenName.text();
+        if (isExistsVar(nameVar)){
+            variableNode.setType(getTypeVar(nameVar));
+        }
         Object valueVar = compiler.compile(variableCreationNode.getRightNode());
         Variable variable = new Variable(valueVar,variableNode.getValueType());
         if (!isRightTypeData(variableNode.getValueType(),variable.getValue())) {
             throw new CompilationError(String.format("у переменной %s ожиданмый тип %s ", variableNode.getToken().text(), variableNode.getValueType()), node.getPosition());
         }
-        Token varTokenName = variableNode.getToken();
-        String nameVar = varTokenName.text();
         if (localScope!=null) setLocalVar(nameVar,variable);
         else setGlobalVar(nameVar,variable);
+    }
+
+    private boolean isExistsVar(String nameVar) {
+        if (localScope!=null)return localScope.get(nameVar)!=null;
+        return globalScope.get(nameVar)!=null;
     }
 
     public void setLocalVar(String nameVar, Variable variable) {

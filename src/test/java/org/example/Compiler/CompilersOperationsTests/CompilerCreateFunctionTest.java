@@ -3,7 +3,7 @@ package org.example.Compiler.CompilersOperationsTests;
 import org.example.Compiler.HelperForCompilatorsTest;
 import org.example.Exception.CompilationError;
 import org.example.Exception.ParseError;
-import org.example.Translator.BufferFunctions;
+import org.example.Entiy.BufferFunctions;
 import org.example.Translator.Compiler.CompilerOperations.CompilerCreateFunction;
 import org.example.Translator.Parser.ParserBase;
 import org.example.Translator.Parser.ParsersExpressionInCode.ParserCreateFunction;

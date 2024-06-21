@@ -5,7 +5,7 @@ import org.example.Entiy.Code;
 import org.example.Entiy.TokenType;
 import org.example.Entiy.ValueType;
 import org.example.Exception.ParseError;
-import org.example.Translator.BufferFunctions;
+import org.example.Entiy.BufferFunctions;
 import org.example.Translator.Parser.ParserBase;
 
 public class ParserData extends ParserBase {

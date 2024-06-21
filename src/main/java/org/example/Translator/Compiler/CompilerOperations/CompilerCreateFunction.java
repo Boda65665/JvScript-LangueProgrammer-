@@ -2,7 +2,7 @@ package org.example.Translator.Compiler.CompilerOperations;
 
 import org.example.AST.ExpressionNode;
 import org.example.AST.FuncNode;
-import org.example.Translator.BufferFunctions;
+import org.example.Entiy.BufferFunctions;
 import org.example.Translator.Compiler.CompilerBase;
 
 public class CompilerCreateFunction extends CompilerBase {

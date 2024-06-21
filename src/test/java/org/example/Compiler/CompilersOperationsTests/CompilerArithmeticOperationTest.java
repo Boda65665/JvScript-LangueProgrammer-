@@ -2,7 +2,7 @@ package org.example.Compiler.CompilersOperationsTests;
 
 import org.example.Compiler.HelperForCompilatorsTest;
 import org.example.Exception.CompilationError;
-import org.example.Translator.BufferFunctions;
+import org.example.Entiy.BufferFunctions;
 import org.example.Translator.Compiler.Compiler;
 import org.example.Translator.Compiler.CompilerOperations.CompilerArithmeticOperation;
 import org.example.Translator.Parser.ParserBase;

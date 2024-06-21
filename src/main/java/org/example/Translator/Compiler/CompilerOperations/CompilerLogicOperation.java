@@ -8,7 +8,7 @@ import org.example.Entiy.TokenType;
 import org.example.Exception.CompilationError;
 import org.example.Translator.Compiler.Compiler;
 import org.example.Translator.Compiler.CompilerBase;
-import org.example.Translator.Compiler.Scope;
+import org.example.Entiy.Scope;
 
 public class CompilerLogicOperation extends CompilerBase {
     private final Scope scope;

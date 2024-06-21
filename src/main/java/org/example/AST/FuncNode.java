@@ -5,6 +5,7 @@ import org.example.Entiy.Token;
 import org.example.Entiy.ValueType;
 
 public class FuncNode extends ExpressionNode{
+
     private final BodyFunc bodyFunc;
     private final ArgumentExceptedNode argumentExceptedNode;
     private final ValueType returnType;

@@ -1,4 +1,4 @@
-package org.example.Translator;
+package org.example.Entiy;
 
 import org.example.AST.FuncNode;
 import java.util.HashMap;
